@@ -198,5 +198,5 @@ $roomStatus->update([
     'date' => Carbon::now(),
 ]);
 
-
-link: https://github.com/amandaisnaini/UAS_Amandaisnainiputri_PRAK.pemogramanwebdasar_D1_Amandaisnainiputri_2209010150_ketersedian_kamar.git
+LINK GITHUB
+https://github.com/Shine2243/UAS_DimasAdityaRahmanPakpahan_PrakPemrogramanWebDasar_SID1_2209010155_Ketersediaan_Kamar.git
